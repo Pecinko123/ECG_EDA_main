@@ -17,7 +17,7 @@
 #include <FS.h>
 #include <ArduinoJson.h> //https://github.com/bblanchon/ArduinoJson
 
-#define SAMPLE_RATE MAX30001_RATE_256 // 512 samples per second
+#define SAMPLE_RATE MAX30001_RATE_256
 
 using namespace std;
 /// INSERT DEVICE ID HERE
